@@ -15,8 +15,8 @@ def main():
 
     print("\n📊 Resultado:")
     print(f"Aparelho: {aparelho}")
-    print(f"Consumo estimado: {consumo_mensal:.2f} kWh/mês")
-    print(f"Custo estimado: R$ {custo_estimado:.2f}/mês")
+    print(f"Consumo estimado: {consumo_mensal:.2f} kWh/mês ⚡")
+    print(f"Custo estimado: R$ {custo_estimado:.2f}/mês 💰  " )
 
 if __name__ == "__main__":
     main()
